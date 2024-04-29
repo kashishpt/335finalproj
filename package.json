@@ -1,0 +1,17 @@
+{
+  "name": "final_project",
+  "version": "1.0.0",
+  "description": "1. Who Submitted the Project in the Submit Server - Name and directory id of group member that uploaded the application to the submit server. - Name: Kashish Patel - Directory ID: kashishp 2. Group Members - Add the name and directory id (in parentheses) of each member of your team. If you are working by yourself, add your name and directory id too. - Kashish Patel; kashishp  3. App Description - One or two line description. 4. YouTube Video Demo Link - Link to a YouTube video that provides a demo of your application. This video is very important. We will not grade a project unless a video is provided. The video does not need to have audio (narration). 5. APIs Information - Names and link to API(s) used by your application. 6. Contact Email - Which group member should we contact if we have questions.",
+  "main": "mainServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0"
+  }
+}
